@@ -1,7 +1,7 @@
-09fa0029de3b6f96d78382737828b2ba *DESCRIPTION
+64642396f5f734b74d0f20dc6b327ddd *DESCRIPTION
 9eb79ecaf6c8d3272c9e21607bb11c01 *NAMESPACE
 beea946ac08878a365de9fe6004a155f *R/onLoad.R
-2206ebe281d5e0fd89a61dbc3c30646f *configure
+3be37288df2f66e688630fe99bf90d48 *configure
 8a507817b28077e0478add944c64586a *inst/java/commons-logging.jar
 f02dd999d9ee248ee5f2b71db203316f *inst/java/icu4j_3_4.jar
 0cc0d4ca47efd59ef6a28eda75d751bd *inst/java/iri.jar
